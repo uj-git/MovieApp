@@ -17,3 +17,5 @@ it fetches data from TMDB API .
 * Retrofit2 & OkHttp3: Construct the REST APIs and paging network data.
 * Glide for image renderring.
 * ksp: Kotlin Symbol Processing API.
+
+https://github.com/uj-git/MovieApp/assets/84584289/5ef2f6e5-97df-4fa8-8531-861da711c37d
