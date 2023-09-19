@@ -14,6 +14,7 @@ it fetches data from TMDB API .
 * Dagger: for Dependency Injection.
 * Architecture:
 	* MVVM Architecture (View - DataBinding - ViewModel - Model)
-* Retrofit2 & OkHttp3: Construct the REST APIs and paging network data.
-* Glide for image renderring.
+* Retrofit2, OkHttp3,  Glide.
 * ksp: Kotlin Symbol Processing API.
+
+![Movie App Demo](https://github.com/uj-git/MovieApp/assets/84584289/d0b82d2e-222d-4cd7-95f7-2db0eb482338)
