@@ -5,6 +5,7 @@ it fetches data from TMDB API .
 
 ## Tech Stack
 * Minimum SDK level 21
+* Jetpack Compose.
 * Kotlin based, Coroutines.
 * Jetpack:
 	* Lifecycle: Observe Android lifecycles and handle UI states upon the lifecycle changes.
